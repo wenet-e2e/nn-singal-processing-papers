@@ -12,9 +12,11 @@ List of NN based singal processing papers
     - S-DCCRN: [S-DCCRN: Super Wide Band DCCRN with learnable complex feature for speech enhancement](https://arxiv.org/pdf/2111.08387.pdf) (NWPU, 2022)
     - Spatial-DCCRN: [SPATIAL-DCCRN: DCCRN EQUIPPED WITH FRAME-LEVEL ANGLE FEATURE AND HYBRID FILTERING FOR MULTI-CHANNEL SPEECH ENHANCEMENT](https://arxiv.org/pdf/2210.08802.pdf) (NWPU, 2022)
 
-- UFormer: [Uformer: A Unet based dilated complex & real dual-path conformer network for simultaneous speech enhancement and dereverberation](https://arxiv.org/pdf/2111.06015.pdf) (NWPU, 2022)
 - DesNet: [DESNET: A MULTI-CHANNEL NETWORK FOR SIMULTANEOUS SPEECH DEREVERBERATION, ENHANCEMENT AND SEPARATION](https://arxiv.org/pdf/2011.02131.pdf) (NWPU, 2020)
 - PHASEN: [PHASEN: A Phase-and-Harmonics-Aware Speech Enhancement Network](https://arxiv.org/pdf/1911.04697.pdf) (USTC, AAAI, 2020)
+- DPCRN: [DPCRN: Dual-Path Convolution Recurrent Network for Single Channel Speech Enhancement](https://arxiv.org/pdf/2107.05429.pdf) (NJU, Interspeech, 2021)
+- BSRNN: [High Fidelity Speech Enhancement with Band-split RNN](https://arxiv.org/pdf/2212.00406.pdf)(Tencent, 2022)
+- UFormer: [Uformer: A Unet based dilated complex & real dual-path conformer network for simultaneous speech enhancement and dereverberation](https://arxiv.org/pdf/2111.06015.pdf) (NWPU, 2022)
 
 ### Time Domain
 
