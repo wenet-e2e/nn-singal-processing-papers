@@ -30,3 +30,9 @@ List of NN based singal processing papers
 
 ## Speech Seperation
 
+TODO: add important models from ESPnet and asteroid.
+
+### Single Channel
+
+
+### Multiple Channel
