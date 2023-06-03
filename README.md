@@ -26,6 +26,7 @@ List of NN based singal processing papers
 
 ## Acoustic Echo Cancellation
 
+- [Weighted Recursive Least Square Filter and Neural Network based Residual Echo Suppression for the AEC-Challenge](https://arxiv.org/pdf/2102.08551.pdf) (Alibaba, ICASSP, 2021)
 
 ## Automatic Gain Control
 
@@ -38,3 +39,10 @@ TODO: add important models from ESPnet and asteroid.
 
 
 ### Multiple Channel
+
+
+## Joint Optimization
+
+- [Deep Learning for Joint Acoustic Echo and Noise Cancellation with Nonlinear Distortions](https://www.isca-speech.org/archive_v0/Interspeech_2019/pdfs/2651.pdf) (Ohio, Interspeech, 2019)
+- [Low-Complexity, Real-Time Joint Neural Echo Control and Speech Enhancement Based On PercepNet](https://arxiv.org/pdf/2102.05245.pdf) (Amazon, ICASSP, 2021)
+- NN3A: [NN3A: Neural Network supported Acoustic Echo Cancellation, Noise Suppression and Automatic Gain Control for Real-Time Communications](https://arxiv.org/pdf/2110.08437.pdf) (Alibaba, ICASSP, 2022)
