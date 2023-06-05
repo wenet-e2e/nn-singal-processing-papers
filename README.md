@@ -48,3 +48,10 @@ TODO: add important models from ESPnet and asteroid.
 - [Deep Learning for Joint Acoustic Echo and Noise Cancellation with Nonlinear Distortions](https://www.isca-speech.org/archive_v0/Interspeech_2019/pdfs/2651.pdf) (Ohio, Interspeech, 2019)
 - [Low-Complexity, Real-Time Joint Neural Echo Control and Speech Enhancement Based On PercepNet](https://arxiv.org/pdf/2102.05245.pdf) (Amazon, ICASSP, 2021)
 - NN3A: [NN3A: Neural Network supported Acoustic Echo Cancellation, Noise Suppression and Automatic Gain Control for Real-Time Communications](https://arxiv.org/pdf/2110.08437.pdf) (Alibaba, ICASSP, 2022)
+
+
+## Masking
+
+- IBM: [On Ideal Binary Mask As the Computational Goal of Auditory Scene Analysis](https://web.cse.ohio-state.edu/~wang.77/papers/Wang05.pdf) (Ohio, 2005)- IRM: [Ideal ratio mask estimation using deep neural networks for robust speech recognition](https://web.cse.ohio-state.edu/~wang.77/papers/Narayanan-Wang2.icassp13.pdf) (Ohio, 2013)
+- PSM: [Phase-Sensitive and Recognition-Boosted Speech Separation using Deep Recurrent Neural Networks](https://www.researchgate.net/profile/Jonathan-Le-Roux/publication/308836384_Phase-Sensitive_and_Recognition-Boosted_Speech_Separation_using_Deep_Recurrent_Neural_Networks/links/58bde44545851591c5e9badb/Phase-Sensitive-and-Recognition-Boosted-Speech-Separation-using-Deep-Recurrent-Neural-Networks.pdf) (Microsoft, 2015)
+- CRM: [Complex Ratio Masking for Monaural Speech Separation](http://web.cse.ohio-state.edu/~wang.77/papers/WWW.taslp16.pdf) (Ohio, 2015)
