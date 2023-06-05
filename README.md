@@ -52,6 +52,7 @@ TODO: add important models from ESPnet and asteroid.
 
 ## Masking
 
-- IBM: [On Ideal Binary Mask As the Computational Goal of Auditory Scene Analysis](https://web.cse.ohio-state.edu/~wang.77/papers/Wang05.pdf) (Ohio, 2005)- IRM: [Ideal ratio mask estimation using deep neural networks for robust speech recognition](https://web.cse.ohio-state.edu/~wang.77/papers/Narayanan-Wang2.icassp13.pdf) (Ohio, 2013)
+- IBM: [On Ideal Binary Mask As the Computational Goal of Auditory Scene Analysis](https://web.cse.ohio-state.edu/~wang.77/papers/Wang05.pdf) (Ohio, 2005)
+- IRM: [Ideal ratio mask estimation using deep neural networks for robust speech recognition](https://web.cse.ohio-state.edu/~wang.77/papers/Narayanan-Wang2.icassp13.pdf) (Ohio, 2013)
 - PSM: [Phase-Sensitive and Recognition-Boosted Speech Separation using Deep Recurrent Neural Networks](https://www.researchgate.net/profile/Jonathan-Le-Roux/publication/308836384_Phase-Sensitive_and_Recognition-Boosted_Speech_Separation_using_Deep_Recurrent_Neural_Networks/links/58bde44545851591c5e9badb/Phase-Sensitive-and-Recognition-Boosted-Speech-Separation-using-Deep-Recurrent-Neural-Networks.pdf) (Microsoft, 2015)
 - CRM: [Complex Ratio Masking for Monaural Speech Separation](http://web.cse.ohio-state.edu/~wang.77/papers/WWW.taslp16.pdf) (Ohio, 2015)
