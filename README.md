@@ -26,7 +26,9 @@ List of NN based singal processing papers
 
 ## Acoustic Echo Cancellation
 
-- [Weighted Recursive Least Square Filter and Neural Network based Residual Echo Suppression for the AEC-Challenge](https://arxiv.org/pdf/2102.08551.pdf) (Alibaba, ICASSP, 2021)
+- wRLS-DFSMN: [Weighted Recursive Least Square Filter and Neural Network based Residual Echo Suppression for the AEC-Challenge](https://arxiv.org/pdf/2102.08551.pdf) (Alibaba, ICASSP, 2021)
+- GCCRN [Acoustic Echo Cancellation using Deep Complex Neural Network with Nonlinear Magnitude Compression and Phase Information](https://www.isca-speech.org/archive/pdfs/interspeech_2021/peng21f_interspeech.pdf) (IACAS, Interspeech, 2021)
+
 
 ## Automatic Gain Control
 
